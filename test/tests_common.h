@@ -4,6 +4,7 @@
 #include <exception>
 #include <fstream>
 #include <sstream>
+#include <iomanip>
 #include <vector>
 
 inline std::string GetFileMD5(const std::string& filePath)

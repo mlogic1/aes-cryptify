@@ -6,6 +6,8 @@
 #include <fstream>
 #include <filesystem>
 #include <string>
+#include <cstring>
+#include <iomanip>
 #include <tuple>
 #include <exception>
 #include <unistd.h>

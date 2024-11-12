@@ -18,6 +18,9 @@
 x64/
 x86/
 bld/
+build
+.vscode/
+*.DS_Store
 [Bb]in/
 [Oo]bj/
 [Ll]og/
@@ -50,7 +53,7 @@ artifacts/
 *_i.h
 *.ilk
 *.meta
-*.obj
+# *.obj
 *.pch
 *.pdb
 *.pgc
@@ -69,6 +72,7 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.swp
 
 # Chutzpah Test files
 _Chutzpah*
